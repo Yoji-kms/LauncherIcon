@@ -1,4 +1,4 @@
-## Нетология. Программирование на Kotlin под Android. Урок 1 (Android Studio, SDK, эмулятор и первое приложение). Задача 1. Launcher Icon
+## Нетология. Программирование на Kotlin под Android. Урок 2 (Ресурсы, View и ViewGroup). Задача 1. Launcher Icon
 
 ### [Задание](https://github.com/netology-code/and2-homeworks/tree/master/02_resources):
 
